@@ -1,7 +1,7 @@
 title: Samuel Schwab # name of the site
 author: Samuel Schwab # name of site's author
 email: s.schwab@lic.leidenuniv.nl # email of site's author
-url: SamuelSchwab.github.io # root address of the site
+url: samuelschwab.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   I look at proteins and stuff.
