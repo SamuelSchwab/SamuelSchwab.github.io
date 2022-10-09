@@ -13,6 +13,7 @@ entries:
       - title: letterboxd
         url: https://letterboxd.com/samuelschwab/
       - title: about
+        url: ../_pages/about)
 
   - title: thoughts
     post_list: true
