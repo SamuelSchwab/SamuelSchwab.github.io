@@ -4,7 +4,7 @@ title: The bacterial compass
 slug: the-bacterial-compass
 ---
 
-Ever since the invention of the magnetic compass, we have used the magnetic field to help us find our way around the Earth. However, we are not the first organisms to use the magnetic field to our advantage. Some Proteobacteria mysteriously are always aligned to the Earth's north- and southpole.
+Ever since the invention of the magnetic compass, we have used the magnetic field to help us find our way around the Earth. However, we are not the first organisms to use the magnetic field to our advantage. Some Proteobacteria mysteriously are always aligned to the Earth's North and South Pole.
 
 ---
 {: data-content="The needle"}
