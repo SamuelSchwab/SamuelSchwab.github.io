@@ -36,7 +36,7 @@ So why do these bacteria have these large and complex magnetosomes? The common a
 ---
 {: data-content="More information"}
 
-The magnetosome research field is relatively large with many papers. Here a few to start with if you are interested in more:
+The magnetosome research field is relatively large with many papers. Here are few to start with if you are interested in more:
 
 Schüler D. (2008). Genetics and cell biology of magnetosome formation in magnetotactic bacteria. FEMS microbiology reviews, 32(4), 654–672. <https://doi.org/10.1111/j.1574-6976.2008.00116.x>
 
