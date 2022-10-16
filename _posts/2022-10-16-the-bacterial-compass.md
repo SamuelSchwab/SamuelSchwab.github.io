@@ -23,7 +23,7 @@ The magnetosomes are black and indicated by the arrows. Scale bars: a, b = 0.5 Î
 MamK is not the only protein involved in the formation of functional magnetosomes. About 32 genes, some of which have partially redundant functions, in bacterium *Magnetospirillum gryphiswaldense MSR-1* are involved in magnetosome formation[^1]. That might sound like a lot but considering how complex these magnetosomes are, it seems rather little. Besides, not all 32 are necessary for magnetosome formation; 17 of these 32 are sufficient to get some rudimentary magnetosome formation. To show how little 32 proteins really are for a system as complex as magnetosomes, here is a small comparison: All 32 of these proteins are encoded by around 29000 nucleotides, which is equivalent to 58000 bits of data or 7.25 kilobytes. For reference, the text alone in this post already uses 5.8 kilobytes.
 
 ---
-{: data-content="SEM micrograph of *Magnetobacterium bavaricum*"}
+{: data-content="SEM micrograph of *`Magnetobacterium bavaricum`*"}
 
 ![Figure#002: The bacterial compass](../assets/images/figures/magnetosomes_2.jpg)
 The magnetosomes are visualised in red. Image from [C. Jogler, 2010](https://doi.org/10.1111/j.1462-2920.2010.02220.x).
