@@ -15,7 +15,7 @@ These bacteria contain a magnetic needle which forces them into this alignment. 
 {: data-content="Electron microscope images of bacteria with magnetosome"}
 
 ![Figure#001: The bacterial compass](../assets/images/figures/magnetosomes_1.jpg)
-The magnetosomes are black and indicated by the arrows. Scale bars: a, b = 0.5 μm, c–f = 1 μm. Image from https://doi.org/10.1038/s41522-022-00304-0.
+The magnetosomes are black and indicated by the arrows. Scale bars: a, b = 0.5 μm, c–f = 1 μm. Image from [P. Goswami, 2022](https://doi.org/10.1038/s41522-022-00304-0).
 
 ---
 {: data-content="Magnetosome genes"}
@@ -26,7 +26,7 @@ MamK is not the only protein involved in the formation of functional magnetosome
 {: data-content="SEM micrograph of *Magnetobacterium bavaricum*"}
 
 ![Figure#002: The bacterial compass](../assets/images/figures/magnetosomes_2.jpg)
-The magnetosomes are visualised in red. Image from https://doi.org/10.1111/j.1462-2920.2010.02220.x.
+The magnetosomes are visualised in red. Image from [C. Jogler, 2010](https://doi.org/10.1111/j.1462-2920.2010.02220.x).
 
 ---
 {: data-content="Function"}
@@ -38,15 +38,15 @@ So why do these bacteria have these large and complex magnetosomes? The common a
 
 The magnetosome research field is relatively large with many papers. Here a few to start with if you are interested in more:
 
-Schüler D. (2008). Genetics and cell biology of magnetosome formation in magnetotactic bacteria. FEMS microbiology reviews, 32(4), 654–672. https://doi.org/10.1111/j.1574-6976.2008.00116.x
+Schüler D. (2008). Genetics and cell biology of magnetosome formation in magnetotactic bacteria. FEMS microbiology reviews, 32(4), 654–672. <https://doi.org/10.1111/j.1574-6976.2008.00116.x>
 
-Uebe, R., & Schüler, D. (2016). Magnetosome biogenesis in magnetotactic bacteria. Nature reviews. Microbiology, 14(10), 621–637. https://doi.org/10.1038/nrmicro.2016.99
+Uebe, R., & Schüler, D. (2016). Magnetosome biogenesis in magnetotactic bacteria. Nature reviews. Microbiology, 14(10), 621–637. <https://doi.org/10.1038/nrmicro.2016.99>
 
-Frankel, R. B., Blakemore, R. P., DE Araujo, F. F., Esquivel, D. M., & Danon, J. (1981). Magnetotactic bacteria at the geomagnetic equator. Science (New York, N.Y.), 212(4500), 1269–1270. https://doi.org/10.1126/science.212.4500.1269
+Frankel, R. B., Blakemore, R. P., DE Araujo, F. F., Esquivel, D. M., & Danon, J. (1981). Magnetotactic bacteria at the geomagnetic equator. Science (New York, N.Y.), 212(4500), 1269–1270. <https://doi.org/10.1126/science.212.4500.1269>
 
-Pfeiffer, D., & Schüler, D. (2020). Quantifying the Benefit of a Dedicated "Magnetoskeleton" in Bacterial Magnetotaxis by Live-Cell Motility Tracking and Soft Agar Swimming Assay. Applied and environmental microbiology, 86(3), e01976-19. https://doi.org/10.1128/AEM.01976-19
+Pfeiffer, D., & Schüler, D. (2020). Quantifying the Benefit of a Dedicated "Magnetoskeleton" in Bacterial Magnetotaxis by Live-Cell Motility Tracking and Soft Agar Swimming Assay. Applied and environmental microbiology, 86(3), e01976-19. <https://doi.org/10.1128/AEM.01976-19>
 
-Klumpp, S., Faivre, D (2016). Magnetotactic bacteria. Eur. Phys. J. Spec. Top. 225, 2173–2188. https://doi.org/10.1140/epjst/e2016-60055-y
+Klumpp, S., Faivre, D (2016). Magnetotactic bacteria. Eur. Phys. J. Spec. Top. 225, 2173–2188. <https://doi.org/10.1140/epjst/e2016-60055-y>
 
 Bazylinski D. A. (1999). Synthesis of the bacterial magnetosome: the making of a magnetic personality. International microbiology : the official journal of the Spanish Society for Microbiology, 2(2), 71–80.
 
