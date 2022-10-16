@@ -9,7 +9,7 @@ Ever since the invention of the magnetic compass, we have used the magnetic fiel
 ---
 {: data-content="The needle"}
 
-These bacteria contain a magnetic needle which forces them into this alignment. This needle is made from several small magnetosomes. Magnetosomes are small membrane-enclosed compartments. These compartments contain magnetic crystals. By compartmentalising the crystals, these bacteria have high amounts of control of the mineralization process and the positioning of the magnetosomes within the cell. The positioning is important as the most stable state of multiple magnetosomes is to cluster together. In order to form a needle, the magnetosomes are chained together through a cytoskeletal protein called MamK. The cytoskeleton of a cell is formed by a complex network of filaments. It gives internal structure and is responsible for the shape of a cell. The details of how the bacterial cytoskeleton constructs the magnetosomes into a needle-like structure are not well understood. A lot of research is therefore focused on understanding this interplay better as it shows a form of complexity in bacteria akin to eukaryotes.
+These bacteria contain a magnetic needle which forces them into this alignment. This needle is made from several small magnetosomes. Magnetosomes are small membrane-enclosed compartments. These compartments contain magnetic crystals. By compartmentalising the crystals, these bacteria have high amounts of control of the mineralization process and the positioning of the magnetosomes within the cell. The positioning is important as the most stable state of multiple magnetosomes is to cluster together, while the needle structure maximizises its magnetic moment. In order to form a needle, the magnetosomes are chained together through a cytoskeletal protein called MamK. The cytoskeleton of a cell is formed by a complex network of filaments. It gives internal structure and is responsible for the shape of a cell. The details of how the bacterial cytoskeleton constructs the magnetosomes into a needle-like structure or how the forces of the needle are transfered to the cell are not completely understood. A lot of research is therefore focused on understanding this interplay better as it shows a form of complexity in bacteria akin to eukaryotes.
 
 ---
 {: data-content="Electron microscope images of bacteria with magnetosome"}
@@ -41,6 +41,8 @@ The magnetosome research field is relatively large with many papers. Here are fe
 Schüler D. (2008). Genetics and cell biology of magnetosome formation in magnetotactic bacteria. FEMS microbiology reviews, 32(4), 654–672. <https://doi.org/10.1111/j.1574-6976.2008.00116.x>
 
 Uebe, R., & Schüler, D. (2016). Magnetosome biogenesis in magnetotactic bacteria. Nature reviews. Microbiology, 14(10), 621–637. <https://doi.org/10.1038/nrmicro.2016.99>
+
+Müller, F. D., Schüler, D., & Pfeiffer, D. (2020). A Compass To Boost Navigation: Cell Biology of Bacterial Magnetotaxis. Journal of bacteriology, 202(21), e00398-20. <https://doi.org/10.1128/JB.00398-20>
 
 Frankel, R. B., Blakemore, R. P., DE Araujo, F. F., Esquivel, D. M., & Danon, J. (1981). Magnetotactic bacteria at the geomagnetic equator. Science (New York, N.Y.), 212(4500), 1269–1270. <https://doi.org/10.1126/science.212.4500.1269>
 
