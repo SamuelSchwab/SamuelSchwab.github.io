@@ -6,6 +6,8 @@ entries:
     entries:
       - title: email
         url: mailto:s.schwab@lic.leidenuniv.nl
+      - title: google scholar
+        url: https://scholar.google.com/citations?user=a6UXWdQAAAAJ
       - title: academics
         url: https://www.universiteitleiden.nl/en/staffmembers/samuel-schwab
       - title: twitter
