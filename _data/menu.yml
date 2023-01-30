@@ -14,6 +14,8 @@ entries:
         url: https://twitter.com/SammyBoterhammy
       - title: letterboxd
         url: https://letterboxd.com/samuelschwab/
+      - title: github
+        url: https://github.com/SamuelSchwab
       - title: about
         url: ../_pages/about
 
