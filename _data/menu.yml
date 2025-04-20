@@ -10,12 +10,12 @@ entries:
         url: https://scholar.google.com/citations?user=a6UXWdQAAAAJ
       - title: academics
         url: https://www.universiteitleiden.nl/en/staffmembers/samuel-schwab
-      - title: twitter
-        url: https://twitter.com/SammyBoterhammy
       - title: letterboxd
         url: https://letterboxd.com/samuelschwab/
       - title: github
         url: https://github.com/SamuelSchwab
+      - title: bsky
+        url: https://bsky.app/profile/samuelschwab.bsky.social
       - title: about
         url: ../_pages/about
 
