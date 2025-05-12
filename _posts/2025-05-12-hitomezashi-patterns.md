@@ -82,6 +82,12 @@ The hitomezashi patterns that I have discussed here, and the data associated wit
 I am interested to see how the number of regions and loops change as starting with a stitch becomes more or less likely.
 
 ---
+{: data-content="Source code"}
+
+You can find my hitomezashi code here:
+[https://github.com/SamuelSchwab/hitomezashi](https://github.com/SamuelSchwab/hitomezashi)
+
+---
 {: data-content="References"}
 
 Defant, C., & Kravitz, N. (2024). Loops and regions in Hitomezashi patterns. Discrete Mathematics, 347(1), 113693. https://doi.org/10.1016/j.disc.2023.113693
