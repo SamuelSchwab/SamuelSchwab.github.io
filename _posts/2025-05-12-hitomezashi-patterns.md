@@ -5,7 +5,7 @@ slug: hitomezashi-patterns
 ---
 
 *Hitomezashi* is a type of Japanese *sashiko* embroidery, where stitches are regularly spaced from each other on a canvas.
-The patterns that result from these stitches have caught attention of many sewing enthusiasts and mathematicians, due to their beautiful appearance and interesting mathematical properties.
+The patterns that result from these stitches have caught the attention of many sewing enthusiasts and mathematicians, due to their beautiful appearance and interesting mathematical properties.
 
 I first came across a hitomezashi pattern in [a YouTube video from Brady Haran's channel "Numberphile"](https://www.youtube.com/watch?v=JbfhzlMk2eY), wherein mathematician Ayliean MacDonald demonstrates how to draw them on paper:
 
@@ -79,12 +79,12 @@ From the fit, we find that the number of boundary regions is about equal to $$0.
 
 The hitomezashi patterns that I have discussed here, and the data associated with them, have an equal change to start with a gap or a stitch at $$m=0,1,2,...$$ and $$n=0,1,2,...$$.
 
-I am interested to see how the number of regions and loops change as starting with a stitch becomes more or less likely.
+I am interested to see how the number of regions and loops change as I tweak the probability of starting with a stitch.
 
 ---
 {: data-content="Source code"}
 
-You can find my hitomezashi code here:
+You can find my code here:
 [https://github.com/SamuelSchwab/hitomezashi](https://github.com/SamuelSchwab/hitomezashi)
 
 ---
