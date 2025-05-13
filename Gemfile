@@ -14,4 +14,4 @@ group :jekyll_plugins do
   gem "jektex"
 end
 
-ruby '~> 3.4.3'
+ruby '~> 3.4.1'
