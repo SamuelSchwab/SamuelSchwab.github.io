@@ -10,7 +10,7 @@ The patterns that result from these stitches have caught the attention of many s
 I first came across a hitomezashi pattern in [a YouTube video from Brady Haran's channel "Numberphile"](https://www.youtube.com/watch?v=JbfhzlMk2eY), wherein mathematician Ayliean MacDonald demonstrates how to draw them on paper:
 
 1. Start with an m x n grid
-2. At $$m=0,1,2,...$$ and $$n=0,1,2,...$$, you either start with drawing a line/"stitch" (1) or a gap (0).
+2. At horizontal grid lines $$m=0,1,2,..,m+1$$ and vertical grid lines $$n=0,1,2,...,n+1$$ , you either start with drawing a line/"stitch" (1) or a gap (0).
 3. Continue drawing either lines or gaps, alternating between the two.
 
 ![Figure#001: Hitomezashi example](../assets/images/figures/hitomezashi_example.png)
